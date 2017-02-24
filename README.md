@@ -1,2 +1,2 @@
 # projects
-I sort out the things I need to work on here..! 
+see [Projects] tab for some of the things I worked on last semester
